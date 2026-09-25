@@ -6,7 +6,8 @@
 
 <template>
     <header>
-        <MainNavigation />
+        <MainNavigation title="My Vue App" />
+        <!-- <MainNavigation /> -->
     </header>
 
     <main>
